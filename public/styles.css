@@ -1,0 +1,106 @@
+table,
+tr,
+td {
+    border: 2px solid black;
+}
+
+body {
+    font-family: 'Courgette', cursive;
+    font-size:20px;
+    background-color: rgb(195, 241, 168);
+    
+}
+
+.p1 {
+    position: relative;
+    color: black;
+    width: 500px;
+    font-size: 30px;
+    z-index: 1;
+    font-style: italic;
+    left: 25px;
+    top: -20px;
+}
+
+.division {
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: -480px;
+    width: 300px;
+    height: 100px;
+    color:white;
+    font-size: 22px;
+    border: 2px solid black;
+    background-color: rgb(115, 161, 214);
+    border-radius: 30px;
+    z-index: 1001;
+}
+.but
+{
+    position: relative;
+    top:-20px;
+}
+
+button {
+    font-size: 18px;
+    color:white;
+    border:2px solid #ba002e;
+    border-radius: 12px;
+    background-color: #ba002e;
+    font-family: 'Courgette', cursive;
+
+}
+.top
+{
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+    position: relative;
+    top:-400px;
+}
+.inp {
+    border: 2px solid black!important;
+    width: 250px!important;
+    height: 20px!important;
+    border-radius: 10px;
+    font-family: 'Courgette', cursive;
+    font-weight: 900;
+    /* position: relative; */
+    font-size:20px;
+    
+}
+.overlay {
+    background-color: #EFEFEF;
+    position: fixed;
+    z-index: 1000;
+    top: 0px;
+    left: 0px;
+    opacity: .5;
+    /* in FireFox */
+    /* filter: alpha(opacity=50); */
+    /* in IE */
+}
+span
+{
+    padding-left: 150px;
+    margin-top: 10px;
+}
+table {
+    border-collapse: collapse;
+}
+.input {
+    border: none;
+    width: 130px;
+    height: 130px;
+    font-size: 70px;
+    text-align: center;
+    
+}
+.pos {
+    position: relative;
+    top: 70px;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+}

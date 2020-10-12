@@ -1,0 +1,3 @@
+Netlify URL: https://manasa-react-tictactoe.netlify.app/
+
+GitHub URL: https://github.com/manasa086/Reacttictactoe
